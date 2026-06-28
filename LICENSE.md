@@ -1,4 +1,4 @@
-# 
+# VIP MEV arbitrage bot plugins para Mac OS | Personalizado MEV arbitrage bot plugins para PC Windows. Con escaneo de arbitraje y análisis de mercado — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
